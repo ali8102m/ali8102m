@@ -41,6 +41,9 @@ Jundishapur University of Technology, Dezful
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali8102m&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali8102m&layout=compact&theme=radical)
 
+![Contribution Stats](image2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali8102m&layout=compact&theme=radical)
+
 ---
 
 ## 🌱 Currently Learning
