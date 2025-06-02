@@ -28,7 +28,7 @@ Jundishapur University of Technology, Dezful
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
