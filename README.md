@@ -38,15 +38,7 @@ Jundishapur University of Technology, Dezful
 
 ## 📊 My GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali8102m&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali8102m&layout=compact&theme=radical)
-
-<!-- Custom Contribution Stats Card (replace `image2` with the path to your own image if you upload it, or just use this placeholder for now) -->
-![Contribution Stats](image2)
-
-<!-- GitHub Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mashayekhi&layout=compact&theme=radical)
-
 <!-- GitHub Streak Stats Card -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-mashayekhi&theme=radical)
 
