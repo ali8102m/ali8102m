@@ -28,11 +28,16 @@ Jundishapur University of Technology, Dezful
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stacks
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![AutoCAD](https://img.shields.io/badge/AutoCAD-0076A8?logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 ---
 
