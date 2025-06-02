@@ -28,11 +28,11 @@ Jundishapur University of Technology, Dezful
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0076A8?style=for-the-badge&logo=autodesk&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-0076A8?logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/overview)
 
 ---
 
